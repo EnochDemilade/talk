@@ -1,7 +1,7 @@
 # import text to speech
 import pyttsx3
 
-# create a function
+# create a function to talk with a parameter for the text
 def talk(text):
     # initialise a talk engine
     engine = pyttsx3.init()
